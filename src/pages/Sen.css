@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center; 
+    height: 80vh;
+    gap: 20px;
+    
+  }
+  
+  .text {
+    width: 600px;
+    color: #333;
+    text-align: center;
+  }
+
+  .samedir{
+    display: flex;
+    gap:10px;
+    margin: 20px;
+  }
+  
+  .searchbar{
+    position: relative;
+    right: 300px;
+  }
+  

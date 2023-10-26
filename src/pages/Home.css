@@ -1,0 +1,38 @@
+.stacked-centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.stacked-centered-content {
+  text-align: center;
+ 
+}
+
+.box {
+  width: 700px;
+  height: 150px;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-container {
+  text-align: center;
+  gap: 200px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+
+.gap{
+  width: 200px;
+  height: 10px;
+}

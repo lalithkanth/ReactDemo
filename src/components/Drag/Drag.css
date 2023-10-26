@@ -1,0 +1,22 @@
+.file-drop-area {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .file-drop-area.dragging {
+    border-color: #007bff;
+  }
+  
+  .file-input-label {
+    cursor: pointer;
+  }
+
+  p{
+    color: rgba(64, 74, 134, 0.80);
+  }
+  label{
+    color: rgba(64, 74, 134, 0.80);
+  }
+  

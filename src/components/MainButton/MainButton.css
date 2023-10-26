@@ -1,0 +1,10 @@
+.main{
+    width: 258px;
+    height: 103px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #659AFD;
+    border:none;
+    color: #fff;
+    font-family: 'Poppins';
+}

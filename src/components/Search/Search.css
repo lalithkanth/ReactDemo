@@ -1,0 +1,22 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+    
+  }
+  
+  .search-input {
+    width: 861px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 39px;
+    border: 1px solid #000;
+  }
+  
+
+  input::placeholder {
+    color: #B4B4B4;
+    font-family: 'Poppins';
+  }

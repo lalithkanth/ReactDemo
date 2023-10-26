@@ -1,0 +1,9 @@
+.main1{
+    border-radius: 32px;
+    background: #404A86;
+    width: 192px;
+    height: 64px;
+    flex-shrink: 0;
+    border: none;
+    margin-top: 20px;
+}
